@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "unit-3-agentic-rag"
+name = "langgraph-gradio"
 version = "0.1.0"
-description = "Agentic RAG Use Case Exercise"
+description = "Agentic RAG with LangGraph and Gradio Front End"
 authors = ["ssgrummons <samuel.grummons@gmail.com>"]
 readme = "README.md"
 
