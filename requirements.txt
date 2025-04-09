@@ -1,0 +1,12 @@
+datasets 
+smolagents 
+langchain-community 
+rank_bm25
+gradio
+litellm
+langchain
+langchain-litellm
+langgraph
+langchain-huggingface
+langchain-ollama
+dotenv
